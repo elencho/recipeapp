@@ -1,3 +1,14 @@
+# Recipe app
+
+![Peek 2020-09-23 17-29](https://user-images.githubusercontent.com/53994979/94019070-68165c00-fdc2-11ea-83dc-a22a5dace532.gif)
+
+
+## API
+https://developer.edamam.com/edamam-recipe-api
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
